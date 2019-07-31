@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="C# ZPTest" type="RunExe" factoryName=".NET Executable" activateToolWindowBeforeRun="false">
+    <option name="EXE_PATH" value="$ZPPath$/ZennoLab.CodeRunner.exe" />
+    <option name="PROGRAM_PARAMETERS" value="50606 &quot;$ZPPath$/ExternalAssemblies/ZPCsTest.dll&quot; external -sp &quot;$USER_HOME$/AppData/Roaming/ZennoLab/ZennoPoster/5&quot;" />
+    <option name="WORKING_DIRECTORY" value="$ZPPath$" />
+    <option name="PASS_PARENT_ENVS" value="1" />
+    <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    <option name="USE_MONO" value="0" />
+    <option name="RUNTIME_ARGUMENTS" value="" />
+    <method v="2">
+      <option name="Build Solution" enabled="true" />
+    </method>
+  </configuration>
+</component>

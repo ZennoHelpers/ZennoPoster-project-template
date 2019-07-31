@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZpCsTest", "ZpCsTest\ZpCsTest.csproj", "{BC9C3E62-A052-4E7E-98BC-D6321EE838AA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ZpFsTest", "ZpFsTest\ZpFsTest.fsproj", "{4F61E2DD-AA61-4FCA-AE30-85B4A0E3CB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9C3E62-A052-4E7E-98BC-D6321EE838AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9C3E62-A052-4E7E-98BC-D6321EE838AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9C3E62-A052-4E7E-98BC-D6321EE838AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9C3E62-A052-4E7E-98BC-D6321EE838AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F61E2DD-AA61-4FCA-AE30-85B4A0E3CB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F61E2DD-AA61-4FCA-AE30-85B4A0E3CB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F61E2DD-AA61-4FCA-AE30-85B4A0E3CB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F61E2DD-AA61-4FCA-AE30-85B4A0E3CB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

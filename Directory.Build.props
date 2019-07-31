@@ -1,0 +1,28 @@
+<Project>
+	
+	<ItemGroup>
+        <Reference Include="Global, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>$(ZennoPosterCurrentPath)\Global.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.CSharp" />
+        <Reference Include="WindowsBase" />
+        <Reference Include="ZennoLab.CommandCenter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>$(ZennoPosterCurrentPath)\ZennoLab.CommandCenter.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="ZennoLab.Emulation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>$(ZennoPosterCurrentPath)\ZennoLab.Emulation.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="ZennoLab.InterfacesLibrary, Version=4.1.3.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>$(ZennoPosterCurrentPath)\ZennoLab.InterfacesLibrary.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="ZennoLab.Macros, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+            <HintPath>$(ZennoPosterCurrentPath)\ZennoLab.Macros.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+    </ItemGroup>
+	
+</Project>
