@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <Author>Zymlex</Author>
-        <Product>ZPFsTest</Product>
+        <Product>ZPСsTest</Product>
         <TargetFramework>net48</TargetFramework>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <LangVersion>latest</LangVersion>
